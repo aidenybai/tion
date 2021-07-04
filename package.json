@@ -1,0 +1,17 @@
+{
+  "name": "tion",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "repository": "https://github.com/aidenybai/tion.git",
+  "author": "Aiden Bai <aiden.bai05@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "blankgif": "^0.1.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "webhook-discord": "^3.7.7"
+  }
+}
